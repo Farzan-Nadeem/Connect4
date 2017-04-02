@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Connect4_Local</string>
+    <string name="mainGateButtText">Let\'s Go!</string>
+</resources>
